@@ -28,7 +28,7 @@ Follow these steps to get started with the Sommerfeld Corrections Calculator:
    pip install -r requirements.txt
    ```
 
-3. Run the code with your desired input Lagrangian.
+3. Run the code with your desired input Lagrangian. (TO DO)
 
    ```bash
    python main.py your_input_file.tex

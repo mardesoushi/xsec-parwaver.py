@@ -4,3 +4,7 @@
 /extras/*
 
 *.exe
+*data/*
+*data*
+*logo*
+*help*

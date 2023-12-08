@@ -1,0 +1,18 @@
+HELAS for partial wave amplitude for every angular momentum projections
+
+
+CalcHEP - MadGraph -- Something else ??
+
+knowing a lagrangian, we can have the amplitudes based on partial waves amplitudes 
+
+
+escrever um pacte em alguma linguagem que pegue uma lagrangiana e retorne a decomposição em l 
+
+
+a partir de sigma sommer feld and plug on boltzmann
+
+
+think of a model and d othe theoretical calculation
+
+
+doing the calculations in a numerical way
